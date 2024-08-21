@@ -1,4 +1,3 @@
 # git-test
 
-valami
-még valami
+új dolog
